@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nina2k5
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning PYTHON and Data Structues
 - 💞️ I’m looking to collaborate on any project
 - 📫 @christina._.peralta on instagram
 
