@@ -4,7 +4,7 @@ Passionate about building intuitive CLI tools & visual projects
 
 ## 🔍 About Me
 - Studying Computer Science at California State University Long Beach
-- Interested in AI, cybersecurity, and creative coding
+- Interested in AI, Software Engineering, and UI/UX 
 - Building interactive CLI games and refining Python logic
 
 ## 🧰 Tech Stack
@@ -17,6 +17,4 @@ Passionate about building intuitive CLI tools & visual projects
 
 
 ## 🚀 What I'm Working On
-- Refining input validation in Hangman CLI
-- Exploring bitwise logic and truth tables
-- Building a Rolodex contact manager with file I/O
+--
