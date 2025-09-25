@@ -5,7 +5,6 @@ Passionate about building intuitive CLI tools & visual projects
 ## 🔍 About Me
 - Studying Computer Science at California State University Long Beach
 - Interested in AI, Software Engineering, and UI/UX 
-- Building interactive CLI games and refining Python logic
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
