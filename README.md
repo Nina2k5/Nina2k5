@@ -1,6 +1,7 @@
 # Hello, I'm Christina! 👋  
 Student @ California State University Long Beach | Exploring AI/ML & Software Dev  
 Passionate about building intuitive CLI tools & visual projects
+My LinkedIn: https://www.linkedin.com/in/christina-peralta2005/ 
 
 ## 🔍 About Me
 - Studying Computer Science at California State University Long Beach
