@@ -16,7 +16,6 @@ My LinkedIn: https://www.linkedin.com/in/christina-peralta2005/
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![API](https://img.shields.io/badge/API-FF9800?style=for-the-badge&logo=api&logoColor=white)
-![API](https://img.shields.io/badge/API-FF9800?style=for-the-badge&logo=api&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🚀 What I'm Working On
