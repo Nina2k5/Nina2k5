@@ -19,4 +19,5 @@ My LinkedIn: https://www.linkedin.com/in/christina-peralta2005/
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🚀 What I'm Working On
---
+--🔧 Currently building a sorority website with React, JavaScript, and Canva—featuring member profiles, event RSVPs, and a clean, web design. Focused on making it stylish, functional, and easy to update.
+
