@@ -3,7 +3,6 @@
 **Student @ California State University Long Beach** | AI/ML & Software Dev Enthusiast  
 Passionate about building intuitive CLI tools, visual projects, and clean web experiences.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/christina-peralta2005/)
 
 ---
 
