@@ -11,7 +11,7 @@ Passionate about building intuitive CLI tools, visual projects, and clean web ex
 - 🎓 Studying **Computer Science** at Cal State Long Beach
 - 💼 **SWE Intern @ [La-tech.org](https://la-tech.org)** — gaining real-world engineering experience
 - 💡 Interested in **AI, Software Engineering, and UI/UX**
-- 🌱 Currently learning: C++, Algorithms, Discrete Structures II, Ethics & Software Engineering
+- 🌱 Currently learning: C++, Algorithms, Discrete Structures II, Computer Ethics & Software Engineering
 
 ---
 
