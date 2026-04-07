@@ -12,6 +12,7 @@ Passionate about building intuitive CLI tools, visual projects, and clean web ex
 - 💼 **SWE Intern @ [La-tech.org](https://la-tech.org)** — gaining real-world engineering experience
 - 💡 Interested in **AI, Software Engineering, and UI/UX**
 - 🌱 Currently learning: C++, Algorithms, Discrete Structures II, Computer Ethics & Software Engineering
+- 🥳 Accepted to Break Through Tech AI Program w/ Cornell Tech
 
 ---
 
