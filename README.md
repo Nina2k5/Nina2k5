@@ -18,7 +18,7 @@ Passionate about building intuitive CLI tools, visual projects, and clean web ex
 
 ## 🚀 What I'm Working On
 
-- 🔧 Building a **sorority website** with React, JavaScript & Canva — featuring member profiles, event RSVPs, and a stylish, easy-to-update design
+- 🔧 
 - 💼 Contributing to real-world dev projects as a **SWE Intern at La-tech.org**
 
 ---
