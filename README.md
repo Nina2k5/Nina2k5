@@ -1,5 +1,6 @@
 # Hello, I'm Christina! 👋
 
+
 **Computer Science Student @ CSULB** | AI/ML & Software Development Enthusiast  
 Passionate about building full-stack web applications, AI pipelines, and accessible software experiences.
 
@@ -50,11 +51,7 @@ Passionate about building full-stack web applications, AI pipelines, and accessi
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nina2k5&show_icons=true&theme=radial" alt="Christina's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nina2k5&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
-
+![Stats](https://github-stats-extended.vercel.app/api?username=Nina2k5&theme=dracula)
 ---
 
 ## 📜 Certifications & Experience
