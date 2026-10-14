@@ -9,7 +9,7 @@ Passionate about building full-stack web applications, AI pipelines, and accessi
 ## 🔍 About Me
 
 - 🎓 **BS in Computer Science** @ California State University, Long Beach 
-- 🤖 **Break Through Tech AI Fellow** — Selected for a competitive fellowship cohort focused on Machine Learning Foundations
+- 🤖 **Break Through Tech AI Fellow** — Working with MATHWORKS on a project with MATLAB on vibration detection 
 - 💼 **AI Pre-Apprentice & Intern @ [La-tech.org](https://la-tech.org)** — Building data analysis pipelines & collaborating in agile software cycles
 - 👑 **Vice President** @ Women in Computing (CSULB)
 - 💡 Interested in **Software Engineering, AI/ML, Data Analysis, and Web Development**
