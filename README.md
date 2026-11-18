@@ -1,7 +1,7 @@
 # Hello, I'm Christina! 👋
 
 
-**Computer Science Student @ CSULB** | AI/ML & Software Development Enthusiast  
+**Computer Science Student @ CSULB** | Software Development Enthusiast  
 Passionate about building full-stack web applications, AI pipelines, and accessible software experiences.
 
 ---
